@@ -3,4 +3,4 @@
 アルゴリズムとデータ構造
 復習用
 
-http://www.kondoyodhiyuki.com/java-algo2/
+http://www.kondoyoshiyuki.com/java-algo2/
